@@ -30,7 +30,6 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
-
         # 表示进位
         res = None
         res_end = None
