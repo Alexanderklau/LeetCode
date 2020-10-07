@@ -9,3 +9,7 @@
 ### 2020-06-23 UPDATE
 1. Start Java leetcode work
 2. Start Java Base
+
+### 2020-10-07 UPDATE
+1. Update Python base Algorithm (Sort alg)
+2. Create Golang Project(Go alg work start now~)
