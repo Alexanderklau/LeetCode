@@ -13,3 +13,6 @@
 ### 2020-10-07 UPDATE
 1. Update Python base Algorithm (Sort alg)
 2. Create Golang Project(Go alg work start now~)
+
+### 2020-12-01 UPDATE
+1. Create Everyday Project(To Python)
